@@ -7,7 +7,7 @@
 <body>
   <div class="center">
     <h1>Welcome to Our Site</h1>
-    <a href="signup.php">Sign Up</a> | <a href="login.php">Login</a>
+    <a href="./signup.php">Sign Up</a> | <a href="./login.php">Login</a>
   </div>
 </body>
 </html>
